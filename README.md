@@ -1,2 +1,1 @@
-# server-bot
-всем привет
+~test~
